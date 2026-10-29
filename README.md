@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Panorama+Stitching-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Panorama+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 PanoramaStudio Free Installer** — PanoramaStudio is a panorama stitching application for Windows that assembles multiple overlapping photos into seamless wide-angle, 360°, and cylindrical panoramas. Works without internet access, no account required. Full offline installation.
+**💻 PanoramaStudio Free Installer** — PanoramaStudio is a professional panorama stitching and editing application for Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About PanoramaStudio
 
-PanoramaStudio is a panorama stitching application for Windows that assembles multiple overlapping photos into seamless wide-angle, 360°, and cylindrical panoramas. Features automatic lens correction, exposure blending, and interactive viewers for publishing panoramas online. PanoramaStudio targets photographers who want to create immersive panoramic images from handheld or tripod photography.
+PanoramaStudio is a professional panorama stitching and editing application for Windows. It automatically aligns and blends photos into seamless 360° panoramas with tools for exposure correction, color matching, and virtual tour creation.
 
 ---
 
 ## ❌ Problem: PanoramaStudio is hard to access
 
-- **Windows Only** — No macOS version
-- **Commercial License** — Paid software
-- **Photography Skill** — Quality panoramas require overlapping photos captured with consistent settings
-- **Complex Scenes** — Moving objects and exposure variations between frames reduce stitch quality
+- **Windows Only** — No macOS or Linux version available
+- **Paid License** — Full version requires purchase; free version has significant limitations
+- **Hardware Intensive** — Processing large panoramas requires significant RAM and CPU power
+- **Learning Curve** — Advanced alignment and blending settings require experience
 
 ---
 
@@ -121,7 +121,7 @@ PanoramaStudio is a panorama stitching application for Windows that assembles mu
 
 ---
 
-**PanoramaStudio Free Installer** — PanoramaStudio is a panorama stitching application for Windows that assembles multiple overlapping photos into seamless wide-angle, 360°, and cylindrical panoramas. Install without internet connection today!
+**PanoramaStudio Free Installer** — PanoramaStudio is a professional panorama stitching and editing application for Windows. Install without internet connection today!
 
 <div align="center">
 
